@@ -19,3 +19,7 @@
      Step 5: Apply Image Smoothing(Gaussian Blur).
     
      Step 6: Create Pencil Sketch image by dividing the grayscale image by the inverted blurry image.
+     
+# Task 2:
+     Create the decision tree classifier and visualize it graphically.The purpose is if we feed new data to this classifier, it would be able to
+     predict the right class accordingly.
